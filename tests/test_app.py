@@ -4,5 +4,3 @@ from app import index, home
 def test_index():
     assert index() == "hello, world!"
 
-def test_home():
-    assert home() == "home directory"
