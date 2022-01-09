@@ -1,0 +1,1 @@
+just creating super easy app and connecting it to github and creating yaml file for CI/CD - continuous integration and continuos development, deploying it to HEROKU
